@@ -1,0 +1,19 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This is a test directory",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManjilItani/Git-test-hub-.git"
+  },
+  "author": "Manjil Itani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManjilItani/Git-test-hub-/issues"
+  },
+  "homepage": "https://github.com/ManjilItani/Git-test-hub-#readme"
+}
